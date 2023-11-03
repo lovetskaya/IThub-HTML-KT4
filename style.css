@@ -33,6 +33,10 @@ a {
 	text-decoration: none;
 }
 
+img {
+	width: 5em;
+}
+
 .logo {
     display: flex;
     justify-content: center;
